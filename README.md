@@ -6,7 +6,9 @@ Project (Mobile Banking Application using C)
 ### Welcome to Mobile Banking System.
 First register for mobile banking with username, your phone number and password.
 ![alt text](https://github.com/Aayush-Basnet/Mobile-Banking-System/blob/0dcc8cf48eafb5a12b1545e1c4d4c293ccb201b1/Mobile%20Banking%20System%20Photos/mobilebanking%20first%20page.png)
-Once register process is completed, you can login to your mobile banking profile.But to login in, you have to enter your mobile number and password. If mobile number and password is correct, you will get 5 options;
+Once register process is completed, you can login to your mobile banking profile.
+![alt text](https://github.com/Aayush-Basnet/Mobile-Banking-System/blob/38a5f13f913251edb4ecaaefcef931ed498fb129/Mobile%20Banking%20System%20Photos/mobilebanking%20registration.png)
+But to login in, you have to enter your mobile number and password. If mobile number and password is correct, you will get 5 options;
 ### 1. Balance Inquiry 
 ### 2. Deposite 
 ### 3. Withdrawl 
