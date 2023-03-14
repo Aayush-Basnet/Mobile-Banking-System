@@ -17,6 +17,8 @@ But to login in, you have to enter your mobile number and password. If mobile nu
 ### 3. Withdrawl 
 ### 4. Transfer Amount
 ### 5. Change Password. 
+![alt text](https://github.com/Aayush-Basnet/Mobile-Banking-System/blob/bbf8c4e33616bab86b3aaeece5c029df4997f304/Mobile%20Banking%20System%20Photos/mobilebaking%20.png)
+
 If your mobile number or password is wrong, you will be log out of the mobile banking system.
 1.The Balance Inquity helps you to check your current balance.
 2. You can deposite your amount on deposite site.
